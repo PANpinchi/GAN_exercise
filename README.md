@@ -1,5 +1,5 @@
-# GAN
-## Generative Adversarial Network：
+# 生成對抗網路(Generative Adversarial Network, GAN)
+## GAN with Wasserstein distance and Gradient Penalty：
 <a href="https://github.com/PANpinchi/GAN_exercise/tree/master/WGAN"><h4>GAN_exercise/WGAN</h4></a>
 ## Conditional GAN：
 <a href="https://github.com/PANpinchi/GAN_exercise/tree/master/CWGAN"><h4>GAN_exercise/CWGAN</h4></a>
