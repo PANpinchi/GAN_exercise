@@ -9,18 +9,18 @@
 </h3>
 
 ```
-.<br>
-├── training<br>
-|   ├── train<br>
-|   │   ├── *.jpg<br>
-│   │   │   <br>
-│   │   │   ...<br>
-│   │   │   <br>
-│   │   └── *.jpg<br>
-│   ├── val<br>
-│   │   ├── *.jpg<br>
-│   │   │   <br>
-│   │   │   ...<br>
-│   │   │   <br>
-│   │   └── *.jpg<br>
+.
+└── training
+    ├── train
+    │   ├── *.jpg
+    │   │   
+    │   │   ...
+    │   │   
+    │   └── *.jpg
+    └── val
+        ├── *.jpg
+        │   
+        │   ...
+        │   <br>
+        └── *.jpg
 ```
