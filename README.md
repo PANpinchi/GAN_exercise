@@ -8,6 +8,7 @@
   </ol>
 </h3>
 
--training
-|-
-|-
+
+training
+├─ train
+└─ val
