@@ -10,7 +10,7 @@
 
 ```
 .
-└── trining
+└── training
     ├── train
     │   ├── *.jpg
     │   │   
